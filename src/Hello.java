@@ -1,9 +1,8 @@
-import javax.xml.transform.stream.StreamSource;
-import java.sql.SQLOutput;
+
 
 public class Hello {
 
-    public static void main(String args[]){
+    public static void main(String []args){
 
         boolean as = false;
        int a=2;
