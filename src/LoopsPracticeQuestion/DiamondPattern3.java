@@ -14,7 +14,7 @@ package LoopsPracticeQuestion;
  *
  */
 
-import java.sql.SQLOutput;
+
 
 public class DiamondPattern3 {
 
