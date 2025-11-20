@@ -2,6 +2,8 @@ package LoopsPracticeQuestion;
 
 import java.util.Scanner;
 
+//Write a program to input an integer N and print numbers from 1 to N.
+
 public class PrintNumberOneToN {
 
     public static void main(String[] args) {
