@@ -27,6 +27,45 @@ public class programFirst {
 
         float myFloatValue =  (float) 4.25;
         System.out.println("My float value is = " + myFloatValue);
+
+
+        double pound = 209.61d;
+        double kilogram = pound * 0.45359237d;
+        System.out.println(pound + " pounds is equal to " + kilogram + " kilograms.");
+
+        char myQuestionmark = '?';
+        char myQuestionMarkUnicode = '\u003F';
+        char myQuestionMarkDecimal = 63;
+
+        System.out.println("My question mark character: " + myQuestionmark);
+        System.out.println("My question mark using Unicode: " + myQuestionMarkUnicode);
+        System.out.println("My question mark using Decimal: " + myQuestionMarkDecimal);
+
+        int dec = 10;
+        dec +=  2;
+        System.out.println("The value of dec is: " + dec);
+
+
+
+        double firstValue = 20.00;
+        double secondValue = 80.00;
+
+        double result = (firstValue + secondValue) * 100.00;
+        double remiander = result % 40.00;
+        System.out.println("remainder = "+ remiander);
+
+        boolean isNoRemainder = (remiander == 0.00) ? true : false;
+        System.out.println("isNoRemainder = " + isNoRemainder);
+
+        if (isNoRemainder == false) {
+            System.out.println("Got some remainder");
+        }
+
+
+
+
+
+
     }
 
 
