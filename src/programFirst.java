@@ -17,7 +17,7 @@ public class programFirst {
         System.out.println("Value after underflow of minIntegerValue: " + underflowedValue);
 
 
-        byte myByteNum=120;
+        byte myByteNum = 120;
         short myShortNum = 12000;
         int myIntNum = 50000;
 
@@ -25,7 +25,7 @@ public class programFirst {
         System.out.println("value of myLong is = " + myLongNum);
 
 
-        float myFloatValue =  (float) 4.25;
+        float myFloatValue = (float) 4.25;
         System.out.println("My float value is = " + myFloatValue);
 
 
@@ -42,9 +42,8 @@ public class programFirst {
         System.out.println("My question mark using Decimal: " + myQuestionMarkDecimal);
 
         int dec = 10;
-        dec +=  2;
+        dec += 2;
         System.out.println("The value of dec is: " + dec);
-
 
 
         double firstValue = 20.00;
@@ -52,7 +51,7 @@ public class programFirst {
 
         double result = (firstValue + secondValue) * 100.00;
         double remiander = result % 40.00;
-        System.out.println("remainder = "+ remiander);
+        System.out.println("remainder = " + remiander);
 
         boolean isNoRemainder = (remiander == 0.00) ? true : false;
         System.out.println("isNoRemainder = " + isNoRemainder);
@@ -60,10 +59,6 @@ public class programFirst {
         if (isNoRemainder == false) {
             System.out.println("Got some remainder");
         }
-
-
-
-
 
 
     }
