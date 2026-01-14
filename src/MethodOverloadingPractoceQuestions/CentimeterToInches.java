@@ -5,7 +5,7 @@ import javax.management.MBeanAttributeInfo;
 public class CentimeterToInches {
 
     public static void main(String[] args) {
-        int inches = 12;
+        int inches = 8;
         int feet = 5;
 
         double centimeters1 = convertToCentimeter(inches);
