@@ -1,5 +1,6 @@
 package ControlFlow.LoopsPracticeQuestion;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class PrimeNumberPractice {
@@ -9,7 +10,7 @@ public class PrimeNumberPractice {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         num = sc.nextInt();
-
+        int TotalPrimeNumber =0;
         for (int j = 2; j <= num; j++) {
             int count = 0;
             for (int i = 1; i <= num; i++) {
@@ -22,8 +23,9 @@ public class PrimeNumberPractice {
 
             if (count == 2) {
                 System.out.println(j);
+                TotalPrimeNumber++;
             }
         }
-
+            System.out.println("Total Prime Number = "+TotalPrimeNumber);
     }
 }
