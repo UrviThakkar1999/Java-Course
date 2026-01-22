@@ -12,4 +12,4 @@ I'm strengthening my Java fundamentals to build better test automation framework
 ## Goal
 Build a strong foundation in Java to create more robust, maintainable automation frameworks.
 
-Last updated: 01-20-2026
+Last updated: 01-22-2026
