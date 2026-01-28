@@ -1,3 +1,5 @@
+[![Java Practice CI](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml/badge.svg)](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml)
+
 # Java Learning Journey
 
 ## About
@@ -13,3 +15,6 @@ I'm strengthening my Java fundamentals to build better test automation framework
 Build a strong foundation in Java to create more robust, maintainable automation frameworks.
 
 Last updated: 01-22-2026
+
+
+
