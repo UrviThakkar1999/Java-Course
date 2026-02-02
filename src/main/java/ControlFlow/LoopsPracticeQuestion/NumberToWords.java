@@ -27,7 +27,7 @@ public class NumberToWords {
 
 
                 //System.out.println("number="+number);
-                while (reverseNumber > 0) {
+                while(reverseNumber > 0){
 
                     a = reverseNumber % 10;
                     reverseNumber = reverseNumber / 10;
