@@ -7,7 +7,7 @@ I'm strengthening my Java fundamentals to build better test automation framework
 
 ## Topics Covered
 - ✅ Variables & Data Types
-- ✅ Control Flow (if/else, loops) (in progress)
+- ✅ Control Flow (if/else, loops)
 - 🔄 Object-Oriented Programming (upcoming)
 - ⏳ Collections Framework (upcoming)
 
