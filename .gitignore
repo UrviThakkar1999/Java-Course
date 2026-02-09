@@ -1,4 +1,18 @@
+### Build Tools (CRITICAL) ###
+/target/
+/build/
+*.class
+*.log
+*.war
+*.ear
+*.zip
+*.tar.gz
+
 ### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -28,3 +42,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+Thumbs.db

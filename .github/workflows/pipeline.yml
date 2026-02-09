@@ -1,4 +1,4 @@
-name: Java Practice CI
+name: Java com.com.urvi.Practice CI
 
 on:
   push:
