@@ -1,4 +1,4 @@
-[![Java com.com.urvi.Practice CI](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml/badge.svg)](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml)
+[![Java com.com.urvi.practice CI](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml/badge.svg)](https://github.com/UrviThakkar1999/Java-Course/actions/workflows/pipeline.yml)
 
 # Java Learning Journey
 
