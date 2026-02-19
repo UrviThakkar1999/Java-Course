@@ -7,14 +7,14 @@ I'm strengthening my Java fundamentals to build better test automation framework
 
 ## Topics Covered
 - ✅ Variables & Data Types
-- ✅ Control Flow (if/else, loops) (in progress)
-- 🔄 Object-Oriented Programming (upcoming)
+- ✅ Control Flow (if/else, loops) 
+- 🔄 Object-Oriented Programming (in progress)
 - ⏳ Collections Framework (upcoming)
 
 ## Goal
 Build a strong foundation in Java to create more robust, maintainable automation frameworks.
 
-Last updated: 01-22-2026
+Last updated: 02-19-2026
 
 
 
